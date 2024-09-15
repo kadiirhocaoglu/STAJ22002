@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|solutionrelative:hst.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.business\\services\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|solutionrelative:hst.business\\services\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BBD116-4347-4427-B72E-37476C3B84B7}|HST.Core\\HST.Core.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.core\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BBD116-4347-4427-B72E-37476C3B84B7}|HST.Core\\HST.Core.csproj|solutionrelative:hst.core\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.business\\services\\concrete\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|solutionrelative:hst.business\\services\\concrete\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.api\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|solutionrelative:hst.api\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|solutionrelative:hst.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.business\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|solutionrelative:hst.business\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|solutionrelative:hst.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.business\\extensions\\servicelayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0D3453-7427-4DB1-A1FE-6A81DDBD4A46}|HST.Business\\HST.Business.csproj|solutionrelative:hst.business\\extensions\\servicelayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|c:\\users\\ethan\\source\\repos\\hstsolution\\hst.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37F3C97-F075-4E24-89AD-BEE0A7D376E4}|HST.API\\HST.API.csproj|solutionrelative:hst.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Core\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "HST.Core\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Core\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "HST.Core\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:47:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Services\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "HST.Business\\Services\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Services\\Concrete\\UserService.cs",
+              "RelativeToolTip": "HST.Business\\Services\\Concrete\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:42:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HST.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HST.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:40:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HST.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HST.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:35:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HST.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HST.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T15:05:25.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Program.cs",
+              "RelativeDocumentMoniker": "HST.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Program.cs",
+              "RelativeToolTip": "HST.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:36:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceLayerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Extensions\\ServiceLayerExtensions.cs",
+              "RelativeDocumentMoniker": "HST.Business\\Extensions\\ServiceLayerExtensions.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Extensions\\ServiceLayerExtensions.cs",
+              "RelativeToolTip": "HST.Business\\Extensions\\ServiceLayerExtensions.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:36:28.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "HST.API\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.API\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "HST.API\\Controllers\\ChatsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:16:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Services\\Concrete\\ChatService.cs",
+              "RelativeDocumentMoniker": "HST.Business\\Services\\Concrete\\ChatService.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Services\\Concrete\\ChatService.cs",
+              "RelativeToolTip": "HST.Business\\Services\\Concrete\\ChatService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwDQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:16:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "HST.Business\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\HSTSolution\\HST.Business\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "HST.Business\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwGoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:16:35.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

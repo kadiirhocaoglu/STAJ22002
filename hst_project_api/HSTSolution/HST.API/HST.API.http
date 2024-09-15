@@ -1,0 +1,6 @@
+@HST.API_HostAddress = http://localhost:5121
+
+GET {{HST.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
